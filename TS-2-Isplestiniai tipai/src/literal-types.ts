@@ -119,14 +119,13 @@ console.group('Literal types - užduotys');
     const autoDalys2: CarParts = 'Ratai';
     const autoDalys3: CarParts = 'Langai';
     const autoDalys4: CarParts = 'Valytuvai';
-    const autoDalys5: CarParts = 'Motoras';
-
+    
     console.log({
       autoDalys1,
       autoDalys2,
       autoDalys3,
       autoDalys4,
-      autoDalys5,
+    
     });
     // sprendimą|sprendimo pavyzdžius spausdinkite čia
   }
