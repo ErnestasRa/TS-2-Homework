@@ -79,10 +79,16 @@ console.group('Literal types - užduotys');
   {
     const germanCity1: BiggestGermanCities = 'Berlin';
     const germanCity2: BiggestGermanCities = 'Stuttgart';
+    const germanCity3: BiggestGermanCities = 'Cologne';  
+    const germanCity4: BiggestGermanCities = 'Munich';
+    const germanCity5: BiggestGermanCities = "Hamburg"
 
     console.log({
       germanCity1,
       germanCity2,
+      germanCity3,
+      germanCity4,
+      germanCity5,
     });
     // sprendimą|sprendimo pavyzdžius spausdinkite čia
   }
@@ -92,10 +98,16 @@ console.group('Literal types - užduotys');
   {
     const dogBreed1: DogTypes = 'Bulldog';
     const dogBreed2: DogTypes = 'Katasunis';
+    const dogBreed3: DogTypes = 'Chihuaha';
+    const dogBreed4: DogTypes = 'Yorksire';
+    const dogBreed5: DogTypes = 'Mixas';
 
     console.log({
       dogBreed1,
       dogBreed2,
+      dogBreed3,
+      dogBreed4,
+      dogBreed5,
     });
     // sprendimą|sprendimo pavyzdžius spausdinkite čia
   }
@@ -105,10 +117,16 @@ console.group('Literal types - užduotys');
   {
     const autoDalys1: CarParts = 'Katalikas';
     const autoDalys2: CarParts = 'Ratai';
+    const autoDalys3: CarParts = 'Langai';
+    const autoDalys4: CarParts = 'Valytuvai';
+    const autoDalys5: CarParts = 'Motoras';
 
     console.log({
       autoDalys1,
       autoDalys2,
+      autoDalys3,
+      autoDalys4,
+      autoDalys5,
     });
     // sprendimą|sprendimo pavyzdžius spausdinkite čia
   }
